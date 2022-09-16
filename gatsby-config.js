@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: '/running_page', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Running Page',
-    siteUrl: 'https://hadwinn.github.io',
+    siteUrl: 'https://hadwinn.github.io/running_page',
     logo: 'https://cdn.staticaly.com/gh/hadwinn/blog@master/img/running_pace_logo.PNG',
     description: 'Personal site and blog',
     navLinks: [

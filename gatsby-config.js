@@ -7,6 +7,10 @@ module.exports = {
     description: 'Personal site and blog',
     navLinks: [
       {
+        name: 'Wiki',
+        url: 'https://hadwin.super.site/',
+      },
+      {
         name: 'Blog',
         url: 'https://hadwinn.github.io/',
       },

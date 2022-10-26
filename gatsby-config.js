@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Running Page',
     siteUrl: 'https://hadwinn.github.io/running_page/',
-    logo: 'https://cdn.staticaly.com/gh/hadwinn/blog@master/img/头像1.PNG',
+    logo: 'https://github.com/hadwinn/assets/blob/master/img/%E5%A4%B4%E5%83%8F1.PNG',
     description: 'Personal site and blog',
     navLinks: [
       {

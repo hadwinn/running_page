@@ -1,4 +1,4 @@
-## [我的跑步主页](https://hadwinn.github.io/running_page/)
+### [我的跑步主页](https://hadwinn.github.io/running_page/)
 
 欢迎来到我的跑步主页，这是来自 [@yihong0618](https://github.com/yihong0618) 的项目 [running_page](https://github.com/yihong0618/running_page)，同时 [@superleeyom](https://github.com/superleeyom) 给予了很大帮助。
 
@@ -10,5 +10,4 @@
 
 
 ![my running data](https://raw.githubusercontent.com/hadwinn/running_page/master/assets/github.svg)
----
->  [了解如何打造个人跑步主页](https://github.com/hadwinn/blog/issues/3)
+

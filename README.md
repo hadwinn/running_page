@@ -4,7 +4,7 @@
 
 - ⌚️ 跑步装备：Apple Watch Series 5 + Airpods 2
 - 📱 运动App：Nike Running Club
-- 🏃🏻‍♂️ 数据流：Nike Running Club -> running page
+- 🏃🏻‍♂️ 数据流：Apple Fitness -> Strava -> running page
 
 
 

@@ -3,7 +3,7 @@
 欢迎来到我的跑步主页，这是来自 [@yihong0618](https://github.com/yihong0618) 的项目 [running_page](https://github.com/yihong0618/running_page)。
 
 - ⌚️ 跑步装备：Apple Watch Series 5 + Airpods 2
-- 📱 运动App：Nike Running Club
+- 📱 运动App：Apple Fitness
 - 🏃🏻‍♂️ 数据流：Apple Fitness -> Strava -> running page
 
 

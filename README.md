@@ -11,3 +11,5 @@
 
 ![my running data](https://raw.githubusercontent.com/hadwinn/running_page/master/assets/github.svg)
 
+> 更多信息欢迎关注我的 [Strava](https://www.strava.com/athletes/hadwinjia)
+
